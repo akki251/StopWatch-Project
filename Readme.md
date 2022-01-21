@@ -24,8 +24,9 @@ Users should be able to:
 
 - Solution URL: [Here is my code for this challenge](https://github.com/akki251/StopWatch-Project)
 
-- Live URL: [Here is my Live project Link for this challenge]
-  (https://github.com/akki251/StopWatch-Project)
+- Live URL:
+  [Here is my Live project Link for this challenge]
+  (https://stopwatch-project-cn.netlify.app/)
 
 ### Built with
 
@@ -37,4 +38,3 @@ Users should be able to:
 ### What I learned
 
 I learned about template strings, variouse dom manipulations and event listeners.
-
