@@ -14,11 +14,11 @@ Users should be able to:
 
 ### Features
 
--User can start , pause and reset the stopwatch
+- User can start , pause and reset the stopwatch
 
--The max time he can use stop watch is 60 sec, obviously we can make it for much longer time, but the concept remains same
+- The max time he can use stop watch is 60 sec, obviously we can make it for much longer time, but the concept remains same
 
--Responsive and flexible
+- Responsive and flexible
 
 ### Links
 
