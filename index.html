@@ -1,0 +1,44 @@
+<!--
+  -- ──────────────────────────────────────────────── I ──────────
+  --   :::::: N O T E : :  :   :    :     :        :          :
+  -- ──────────────────────────────────────────────────────────
+  -->
+<!-- There was a slight mistake in the video of the project about seconds and minutes, I had fixed it later ! -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>StopWatch Project</title>
+  </head>
+  <body>
+    <!-- THis is main cover which is containing whole project-->
+    <div class="cover">
+      <!-- main container for watch and heading -->
+      <div class="main-container">
+        <h1 class="heading">StopWatch using Html and CSS</h1>
+        <div class="watch-wrapper">
+          <div class="watch-display">
+            <!-- this time is only for start, else rest will be taken care by the javascript -->
+            <h1 class="watch-display-data">0 0 : 0 0</h1>
+            <div class="titles">
+              <p>Seconds</p>
+              <p>Milliseconds</p>
+            </div>
+          </div>
+          <!-- buttons for pause start and reset  -->
+          <div class="btns-container">
+            <button class="pause">Pause</button>
+            <button class="start">Start</button>
+            <button class="reset">Reset</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
